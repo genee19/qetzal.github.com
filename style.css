@@ -1,0 +1,76 @@
+html, body {
+	height:100%;
+        min-height:100%;
+	margin: 0; 
+
+	font-family: tahoma, arial, sans-serif;
+	font-size: 13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:normal;
+	color: #39434C;
+}
+img {
+	border: 0px;
+}
+a:link, a:visited, a:active { 
+	color:#1E7EC8;
+	text-decoration:none;
+}
+a:hover{
+	color: #1E7EC8;
+	text-decoration: underline;
+}
+#header {
+	height: 80px;
+	font-family: "Trebuchet MS", tahoma, arial, sans-serif;
+	font-size:24px;
+	color:#999999;
+	background:#E8E9EC;
+}
+#logo {
+	padding: 20px 0 0 20px;
+}
+#menu {
+	height:45px;
+	margin: 0; 
+	background:#d4d6dd;
+}
+#main_menu {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+#main_menu li {
+	margin: 0;
+	padding: 0 0 0 35px;
+	line-height:45px;
+	font-family: tahoma, "Trebuchet MS", arial, sans-serif;
+	font-size: 20px;
+	float:left;
+}
+#main_menu li a:link,#main_menu li a:visited,#main_menu li a:active{
+	color: #6b7585;
+	text-decoration: none;
+}
+#main_menu li a:hover {
+	color: #486590;
+	text-decoration: none;
+	border-bottom: 2px solid #486590 !important;
+}
+#center {
+	margin: 10px 30px 30px 30px;
+}
+#bottom {
+	height: 80px;
+	padding: 0;
+	font-family: "Trebuchet MS", tahoma, arial, sans-serif;
+	font-size:14px;
+	color:#999999;
+        border-top:1px solid #d4d6dd;
+}
+#copyright  {
+	padding: 10px 0 0 20px;
+}
+
